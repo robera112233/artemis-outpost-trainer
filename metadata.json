@@ -1,0 +1,6 @@
+{
+  "name": "Artemis Outpost: Shackleton Ridge",
+  "description": "Kid-friendly 2D pixel-art lunar South Pole survival trainer powered by an independent dual-track offline NASA DONKI, OSDR, RadLab, and LRO/LCROSS open data engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
